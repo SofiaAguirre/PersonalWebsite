@@ -67,7 +67,7 @@
                     </div>
                     <div class="col-lg-5">
                         <p class="texto">
-                            Mi nombre es Sofía Aguirre, tengo 19 años y actualmente soy estudiante en "Analísis de
+                            Mi nombre es Sofía Aguirre, actualmente soy estudiante en "Analísis de
                             Sistemas y Redes". Desde muy chica me dedico a innovar y diseñar en mis tiempos libres.
                         </p>
                         <p class="texto">Me encanta aprender nuevas tecnologías y mi objetivo personal es
