@@ -67,12 +67,11 @@
                     </div>
                     <div class="col-lg-5">
                         <p class="texto">
-                            Mi nombre es Sofía Aguirre, actualmente soy estudiante en "Analísis de
-                            Sistemas y Redes". Desde muy chica me dedico a innovar y diseñar en mis tiempos libres.
+                            Mi nombre es Sofía Aguirre, soy estudiante en "Analísis de
+                            Sistemas y Redes". Actualmente trabajo como Ingeniera de Software en <b> MercadoLibre </b>, empresa lider argentina dedicada al comercio electrónico. 
                         </p>
                         <p class="texto">Me encanta aprender nuevas tecnologías y mi objetivo personal es
                             crecer profesionalmente en éste rubro. Podés ponerte en contacto conmigo a través de
-                            Facebook,
                             LinkedIn o completando el formulario de contacto que se encuentra al final de mi sitio web.
                         </p>
                     </div>
@@ -91,10 +90,8 @@
                                 alt="website-logo">
                         </div>
                         <div class="celeste">
-                            <h4>Web Development</h4>
-                            <p class="texto-conocimientos"> <b> Html5, Css: </b><br> -VSCode <br> -Bootstrap4 <br>
-                                -jQuery <br> -Wordpress <br> <b>Stack Mern:</b> <br> -Javascript, JSON, Nodejs <br>
-                                -MongoDB <br> -Express <br> -React </p>
+                            <h4>Front-end</h4>
+                            <p class="texto-conocimientos"> <br> -ReactJs <br> - HTML <br> - CSS <br> - Bootstrap4 <br> - SASS <br> -Javascript </p>
                             <img class="waves" src="imagenes/waves.png">
                         </div>
                     </div>
@@ -104,8 +101,8 @@
                             <img src="imagenes/java.png" id="logo-conocimientos" height="50" width="50" alt="java-logo">
                         </div>
                         <div class="violeta">
-                            <h4>JAVA</h4>
-                            <p class="texto-conocimientos"> -Spring <br> -Hibernate </p>
+                            <h4>Back-end</h4>
+                            <p class="texto-conocimientos"> - Java8 <br> - Kotlin <br> - NodeJs <br> - Spring <br> - Hibernate/JPA <br> - Maven <br> - REST <br> - MQ <br> - SQL </p>
                             <img class="waves" src="imagenes/waves.png">
                         </div>
                     </div>
@@ -116,9 +113,10 @@
                                 alt="freeware-logo">
                         </div>
                         <div class="celeste">
-                            <h4>Free Software</h4>
-                            <p class="texto-conocimientos"> Largos años de conocimiento en distintas distribuciones
-                                GNU-Linux, uso personal y laboral.</p>
+                            <h4>DevOps</h4>
+                            <p class="texto-conocimientos"> - Largos años de conocimiento en distintas distribuciones
+                                GNU-Linux, uso personal y laboral. <br> - AWS <br> - Docker </p>
+                        
                             <img class="waves" src="imagenes/waves.png">
                         </div>
                     </div>
