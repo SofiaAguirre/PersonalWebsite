@@ -297,4 +297,8 @@ footer .parrafo {
         padding-right: 0px !important;
         width: auto !important;
     } 
+
+    .mail {
+        margin-bottom: 20px !important;
+    } 
 }
