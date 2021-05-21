@@ -264,8 +264,6 @@ footer .parrafo {
     h3 {
         font-size: 25px !important;
     }
-
-
 }
 
 @media (max-width: 768px) {
@@ -282,7 +280,8 @@ footer .parrafo {
     }
 
     .texto {
-        width: 90%;
+        width: auto;
+        text-align: center;
     }
 
     .contacto-info {
@@ -291,4 +290,11 @@ footer .parrafo {
         justify-content: space-around;
         margin: 3vh;
     }
+
+    .col-lg-5 {
+        position: relative !important;
+        padding-left: 15px !important;
+        padding-right: 0px !important;
+        width: auto !important;
+    } 
 }
