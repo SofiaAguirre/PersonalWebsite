@@ -43,6 +43,10 @@ a {
     text-decoration: none !important;
 }
 
+.col-lg-3 {
+    padding-right: 0px !important;
+} 
+
 /* Header */
 header {
 
